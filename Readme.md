@@ -2,7 +2,7 @@
 
 _by Tasmiya 💗_
 
-### 🔗*Live Link* -: [Monstera]()
+### 🔗*Live Link* -: [Monstera](https://tasmiya-proj-6.netlify.app)
 
 ![Monstera](./6.png)
 
